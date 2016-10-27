@@ -39,5 +39,5 @@ Version 1.0
 
 ## Project Order
 
-[Draw IO File](https://www.draw.io/#G0B8Rhjg19J0iId19keUlucWdpM2s)
+[Draw IO File](https://github.com/TeamCharles/WorkFlow/blob/master/ProjectOrder.png)
 
