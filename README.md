@@ -36,3 +36,8 @@ Version 1.0
 ## Employee Handbook
 
 [The Bangazon Employee Handbook](https://github.com/TeamCharles/bangazon-inc/blob/master/EMPLOYEE_HANDBOOK.md)
+
+## Project Order
+
+[Draw IO File](https://www.draw.io/#G0B8Rhjg19J0iId19keUlucWdpM2s)
+
