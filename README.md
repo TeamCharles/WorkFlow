@@ -41,3 +41,20 @@ Version 1.0
 
 [Draw IO File](https://github.com/TeamCharles/WorkFlow/blob/master/ProjectOrder.png)
 
+## Installing Visual Studio Code Snippets
+
+Download this repo to your `TeamCharles` directory or download `classDocSnippet.snippet` and `methodDocSnippet.snippet` to your machine.
+
+In Visual Studio, click `Tools` -> `Code Snippets Manager`. 
+
+Select `CSharp` as the language.
+
+Select the `My Code Snippets` directory as the location (or choose your preferred folder for custom code snippets).
+
+Click `Import` and navigate to the `classDocSnippet.snippet` file. Repeat this and import the `methodDocSnippet.snippet` file as well.
+
+When you select `OK` after importing the snippets, you are now able to use the following commands to run the snippets:
+
+`cdoc` and press `TAB` twice to use the Class Documentation snippet.
+
+`mdoc` and press `TAB` twice to use the Method Documentation snippet.
