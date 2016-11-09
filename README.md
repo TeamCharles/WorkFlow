@@ -3,6 +3,8 @@ Official Team Charles™ Work Flow 💪
 
 Version 1.0
 
+![Bang bang](http://image.shutterstock.com/z/stock-photo-boy-with-sunglasses-and-hand-in-shape-of-gun-isolated-on-white-background-59594116.jpg)
+
 ## Table of Contents
 
 * [Starting a New Project](https://github.com/TeamCharles/WorkFlow#starting-a-new-project)
